@@ -1,0 +1,30 @@
+body {
+    background-color: lime;
+}
+
+#title {
+    text-align:center;
+    color:rgb(248, 250, 241);
+}
+
+.main {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #f19354;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 35%;
+    margin-top: 50px;
+    margin-bottom: 5%;
+}      
+#topper {
+
+    margin: 35%;
+margin-top: 50px;
+margin-bottom: 20px;
+}
+
+img{
+
+border-style:solid ;
+box-shadow: 25px 25px 25px #4c14be;
+}
